@@ -1,2 +1,6 @@
-# personalCV
-The target of this project is to store my personal CV for job purposes
+# Resume
+
+A Pen created on CodePen.
+
+Original URL: [https://codepen.io/astronaomical/pen/KexYgb](https://codepen.io/astronaomical/pen/KexYgb).
+
