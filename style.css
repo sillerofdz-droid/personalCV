@@ -49,7 +49,12 @@ h3 {
   position: relative;
   display: flex;
 }
+#edtech {
+  margin: 5%;
+  line-height: 150%;
 
+
+}
 .resume .base,
 .resume .func {
   box-sizing: border-box;
